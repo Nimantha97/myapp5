@@ -1,4 +1,4 @@
-package com.nimantha.myapp4
+package com.nimantha.myapp5
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.google.firebase.firestore.FirebaseFirestore
-import com.nimantha.myapp4.databinding.FragmentSecondBinding
+import com.nimantha.myapp5.databinding.FragmentSecondBinding
 
 class SecondFragment : Fragment() {
 

@@ -1,4 +1,4 @@
-package com.nimantha.myapp4
+package com.nimantha.myapp5
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.google.firebase.firestore.FirebaseFirestore
-import com.nimantha.myapp4.databinding.FragmentFirstBinding
+import com.nimantha.myapp5.databinding.FragmentFirstBinding
 
 
 class FirstFragment : Fragment() {

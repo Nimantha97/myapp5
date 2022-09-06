@@ -1,4 +1,4 @@
-package com.nimantha.myapp4
+package com.nimantha.myapp5
 
 import org.junit.Test
 
